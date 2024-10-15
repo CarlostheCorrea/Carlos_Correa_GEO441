@@ -12,4 +12,4 @@ Carlos Correa
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/MapCoordinateBasics/GEO441b_in_class_exercise_lat_lon_calc.ipynb)
+- [Understanding map coordinates](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/cGEO441b_in_class_exercise_lat_lon_calc.ipynb)
