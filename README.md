@@ -20,6 +20,6 @@ Carlos Correa
 
 - [Extra Credit for Completing a Google Colab Notebook for Week 11 Assignment](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/3DMap.ipynb)
 
-- [Week 12 Assignment | Working with Census Data](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/3DMap.ipynb](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb))
+- [Week 12 Assignment | Working with Census Data](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
 
 
