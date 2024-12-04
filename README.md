@@ -29,7 +29,7 @@ Carlos Correa
 
 ## Maping-Layouts
 
-- [Data Modeling and More Mapping]([Models3D/3DMap.ipynb](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/Maping-Layouts/Data_Model_and_More_Mapping.ipynb))
+- [Data Modeling and More Mapping](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/Maping-Layouts/Data_Model_and_More_Mapping.ipynb)
 
 - [Minnesota Global View](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/Maping-Layouts/Minnesota_Global_View.ipynb)
 
