@@ -20,6 +20,8 @@ Carlos Correa
 
 - [Extra Credit for Completing a Google Colab Notebook for Week 11 Assignment](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/3DMap.ipynb)
 
-- [Week 12 Assignment | Working with Census Data](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
+- [Working with Census Data](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
 
+## Web-based Mapping
 
+- [Cholera Outbreak, 1854](https://miamioh.maps.arcgis.com/home/item.html?id=0b186a1598a44d50a3f22f0e38bbcdb8)
