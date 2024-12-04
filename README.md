@@ -7,20 +7,31 @@ Carlos Correa
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/basic-mapping%20/first-arcgis-mapping.ipynb)
-- [Map the age index based on 2000 census data](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/basic-mapping%20/week_05_assignment_template.ipynb)
+- [Cloquet, Wetlands,and HugoMaps](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/basic-mapping%20/Cloquet%2CWetlands%2CHugoMaps.ipynb)
+
+- [Color Gradient Maps](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/basic-mapping%20/ColorGradientMaps.ipynb)
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/cGEO441b_in_class_exercise_lat_lon_calc.ipynb)
+- [Understanding map coordinates](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/map-coordinate-basics/LatitudeAndLongitude.ipynb)
 
 ## Spatial Analysis
 
-- [Spatial Analysis Maps](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_10_assignment_template.ipynb)
+- [Census Data Ohio and California](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/spatial-analysis/CensusDataOhCal.ipynb)
 
-- [Extra Credit for Completing a Google Colab Notebook for Week 11 Assignment](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/3DMap.ipynb)
+- [Oxford Spatial Analysis](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/spatial-analysis/OxfordSpatialAnalysis.ipynb)
 
-- [Working with Census Data](https://github.com/CarlostheCorrea/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Copy_of_week_12_assignment_template.ipynb)
+- [Spatial Analysis Practice](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/spatial-analysis/SpatialAnalysisPractice.ipynb)
+
+## 3D Models
+
+- [3D Mapping](Models3D/3DMap.ipynb)
+
+## Maping-Layouts
+
+- [Data Modeling and More Mapping]([Models3D/3DMap.ipynb](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/Maping-Layouts/Data_Model_and_More_Mapping.ipynb))
+
+- [Minnesota Global View](https://github.com/CarlostheCorrea/Carlos_Correa_GEO441/blob/main/Maping-Layouts/Minnesota_Global_View.ipynb)
 
 ## Web-based Mapping
 
